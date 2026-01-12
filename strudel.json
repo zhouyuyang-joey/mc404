@@ -1,0 +1,79 @@
+{
+    "_base": "https://raw.githubusercontent.com/zhouyuyang-joey/mc404/main/",
+    "mc404_cp": [
+        "mc404_cp/cp00.wav",
+        "mc404_cp/cp01.wav",
+        "mc404_cp/cp02.wav"
+    ],
+    "mc404_oh": [
+        "mc404_oh/oh00.wav",
+        "mc404_oh/oh01.wav",
+        "mc404_oh/oh02.wav"
+    ],
+    "mc404_perc": [
+        "mc404_perc/pc00.wav",
+        "mc404_perc/pc01.wav",
+        "mc404_perc/pc02.wav",
+        "mc404_perc/pc03.wav",
+        "mc404_perc/pc04.wav",
+        "mc404_perc/pc05.wav",
+        "mc404_perc/pc06.wav",
+        "mc404_perc/pc07.wav"
+    ],
+    "mc404_rim": [
+        "mc404_rim/rim00.wav",
+        "mc404_rim/rim01.wav",
+        "mc404_rim/rim02.wav"
+    ],
+    "mc404_tom": [
+        "mc404_tom/tom00.wav",
+        "mc404_tom/tom01.wav",
+        "mc404_tom/tom02.wav",
+        "mc404_tom/tom03.wav",
+        "mc404_tom/tom04.wav",
+        "mc404_tom/tom05.wav"
+    ],
+    "mc404_hh": [
+        "mc404_hh/hh00.wav",
+        "mc404_hh/hh01.wav",
+        "mc404_hh/hh02.wav",
+        "mc404_hh/hh03.wav",
+        "mc404_hh/hh04.wav",
+        "mc404_hh/hh05.wav",
+        "mc404_hh/hh06.wav"
+    ],
+    "mc404_fx": [
+        "mc404_fx/fx00.wav",
+        "mc404_fx/fx01.wav",
+        "mc404_fx/fx02.wav",
+        "mc404_fx/fx03.wav"
+    ],
+    "mc404_cr": [
+        "mc404_cr/cr00.wav",
+        "mc404_cr/cr01.wav",
+        "mc404_cr/cr02.wav"
+    ],
+    "mc404_sd": [
+        "mc404_sd/sd00.wav",
+        "mc404_sd/sd01.wav",
+        "mc404_sd/sd02.wav",
+        "mc404_sd/sd03.wav",
+        "mc404_sd/sd04.wav",
+        "mc404_sd/sd05.wav",
+        "mc404_sd/sd06.wav",
+        "mc404_sd/sd07.wav",
+        "mc404_sd/sd08.wav"
+    ],
+    "mc404_bd": [
+        "mc404_bd/bd00.wav",
+        "mc404_bd/bd01.wav",
+        "mc404_bd/bd02.wav",
+        "mc404_bd/bd03.wav",
+        "mc404_bd/bd04.wav",
+        "mc404_bd/bd05.wav",
+        "mc404_bd/bd06.wav",
+        "mc404_bd/bd07.wav",
+        "mc404_bd/bd08.wav"
+    ],
+    "mc404_siren": "mc404_siren/mc404_siren.wav"
+}

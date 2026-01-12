@@ -9,6 +9,7 @@ WAV files, 16-bit, 44.1kHz
 ## TODO
 - add more (melodic) synth sound
 - add some long samples and loops
+- better ``oh`` sound (now it's almost identical to ``cr``!)
 
 ## License
 **License:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
